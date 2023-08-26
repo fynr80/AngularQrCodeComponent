@@ -21,7 +21,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Screenshot
 
 ![Template](./src/assets/design/desktop-design.jpg)
+Design given by FrontendMentor
 ![Screenshot](./src/assets/QRCodePageScreenshot.png)
+Screenshot from the solution
 
 ## Links
 
