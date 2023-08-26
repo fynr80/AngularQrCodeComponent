@@ -26,10 +26,6 @@ Screenshot from the solution
 
 ![Screenshot](./src/assets/QRCodePageScreenshot.png)
 
-## Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-
 ## Built with
 
 - Semantic HTML5 markup
