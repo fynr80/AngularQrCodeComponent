@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: "Outfit";
+  src: url("assets/GoogleFontOutfit/Outfit-VariableFont_wght.ttf");
+}
+* {
+  font-family: "Outfit";
+  text-align: center;
+}
+
+html {
+  background-color: hsl(212, 45%, 89%);
+}
+
+p {
+  font-size: 15px;
+}

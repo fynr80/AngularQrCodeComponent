@@ -1,27 +1,40 @@
-# QRCodePage
+# Front-end Style Guide
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+## Layout
 
-## Development server
+The designs were created to the following widths:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Mobile: 375px
+- Desktop: 1440px
 
-## Code scaffolding
+## Colors
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%)
 
-## Build
+# Frontend Mentor - QR code component solution
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Running unit tests
+## Screenshot
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Template](./src/assets/design/desktop-design.jpg)
+![Screenshot](./src/assets/QRCodePageScreenshot.png)
 
-## Running end-to-end tests
+## Links
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
 
-## Further help
+## Built with
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- [Angular](https://angular.io/)
+
+## Author
+
+- Frontend Mentor - [@fynr80](https://www.frontendmentor.io/profile/fynr80)
+- Twitter - [@fynr80](https://github.com/fynr80)
