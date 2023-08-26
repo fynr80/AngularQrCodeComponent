@@ -1,5 +1,13 @@
 # Front-end Style Guide
 
+## Github Pages & Angular
+
+It was kinda tricky to start a live site with Angular and github.
+the solution was Angular CLI gh-pages.
+
+$ng build --configuration production --base-href "https://username.github.io/reponame/" --deploy-url "https://username.github.io/reponame/"
+$npx angular-cli-ghpages --dir=dist/Project-name
+
 ## Layout
 
 The designs were created to the following widths:
