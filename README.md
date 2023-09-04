@@ -1,9 +1,19 @@
-# Front-end Style Guide
+# Frontend Mentor - QR code component solution
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Screenshot
+
+Design given by FrontendMentor
+![Template](./src/assets/design/desktop-design.jpg)
+Screenshot from the solution
+
+![Screenshot](./src/assets/QRCodePageScreenshot.png)
 
 ## Github Pages & Angular
 
-It was kinda tricky to start a live site with Angular and github.
-the solution was Angular CLI gh-pages.
+How to start a live site with Angular and github ?
+My solution was Angular CLI gh-pages.
 
 $ng build --configuration production --base-href "https://username.github.io/reponame/" --deploy-url "https://username.github.io/reponame/"
 $npx angular-cli-ghpages --dir=dist/Project-name
@@ -21,18 +31,6 @@ The designs were created to the following widths:
 - Light gray: hsl(212, 45%, 89%)
 - Grayish blue: hsl(220, 15%, 55%)
 - Dark blue: hsl(218, 44%, 22%)
-
-# Frontend Mentor - QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Screenshot
-
-Design given by FrontendMentor
-![Template](./src/assets/design/desktop-design.jpg)
-Screenshot from the solution
-
-![Screenshot](./src/assets/QRCodePageScreenshot.png)
 
 ## Built with
 
