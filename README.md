@@ -44,4 +44,4 @@ Screenshot from the solution
 ## Author
 
 - Frontend Mentor - [@fynr80](https://www.frontendmentor.io/profile/fynr80)
-- Twitter - [@fynr80](https://github.com/fynr80)
+- Github - [@fynr80](https://github.com/fynr80)
