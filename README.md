@@ -15,7 +15,7 @@ Screenshot from the solution
 How to start a live site with Angular and github ?
 My solution was Angular CLI gh-pages.
 
-$ng build --configuration production --base-href "https://username.github.io/reponame/" --deploy-url "https://username.github.io/reponame/"
+$ng build --configuration production --base-href "https://username.github.io/reponame/" --deploy-url "https://username.github.io/reponame/" <br />
 $npx angular-cli-ghpages --dir=dist/Project-name
 
 ## Layout
